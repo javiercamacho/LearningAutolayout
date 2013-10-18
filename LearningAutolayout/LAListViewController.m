@@ -8,12 +8,15 @@
 
 #import "LAListViewController.h"
 #import "LAItemCell.h"
+#import "Facade.h"
+#import "Hotel.h"
 
 static NSString * const cellIdentifier = @"ItemCell";
 
 @interface LAListViewController ()
 
 @property (strong, nonatomic) IBOutlet UICollectionView *collectionView;
+@property (strong, nonatomic) NSArray *items;
 
 @end
 
@@ -22,18 +25,20 @@ static NSString * const cellIdentifier = @"ItemCell";
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    self.items = [Facade getHotels];
 }
 
 #pragma mark - UICollectionViewDataSource
 - (NSInteger)collectionView:(UICollectionView *)collectionView numberOfItemsInSection:(NSInteger)section
 {
-    return 500;
+    return self.items.count;
 }
 
 - (UICollectionViewCell *)collectionView:(UICollectionView *)collectionView cellForItemAtIndexPath:(NSIndexPath *)indexPath
 {
     LAItemCell *cell = [collectionView dequeueReusableCellWithReuseIdentifier:cellIdentifier forIndexPath:indexPath];
-    cell.textLabel.text = [NSString stringWithFormat:@"%i", indexPath.row];
+    Hotel *hotel = [self.items objectAtIndex:indexPath.row];
+    cell.textLabel.text = hotel.description;
     cell.backgroundColor = [UIColor lightGrayColor];
     
     return cell;

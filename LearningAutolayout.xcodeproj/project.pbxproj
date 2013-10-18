@@ -22,6 +22,8 @@
 		A7698B7E18116F1200F701E2 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A7698B7C18116F1200F701E2 /* InfoPlist.strings */; };
 		A7698B8018116F1200F701E2 /* LearningAutolayoutTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A7698B7F18116F1200F701E2 /* LearningAutolayoutTests.m */; };
 		A7698B8B1811748700F701E2 /* LAItemCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A7698B8A1811748700F701E2 /* LAItemCell.m */; };
+		DCA64B781811BEB200292B86 /* Hotel.m in Sources */ = {isa = PBXBuildFile; fileRef = DCA64B771811BEB200292B86 /* Hotel.m */; };
+		DCA64B7B1811BEC400292B86 /* Facade.m in Sources */ = {isa = PBXBuildFile; fileRef = DCA64B7A1811BEC400292B86 /* Facade.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +58,10 @@
 		A7698B7F18116F1200F701E2 /* LearningAutolayoutTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LearningAutolayoutTests.m; sourceTree = "<group>"; };
 		A7698B891811748700F701E2 /* LAItemCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LAItemCell.h; sourceTree = "<group>"; };
 		A7698B8A1811748700F701E2 /* LAItemCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LAItemCell.m; sourceTree = "<group>"; };
+		DCA64B761811BEB200292B86 /* Hotel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Hotel.h; sourceTree = "<group>"; };
+		DCA64B771811BEB200292B86 /* Hotel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Hotel.m; sourceTree = "<group>"; };
+		DCA64B791811BEC400292B86 /* Facade.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Facade.h; sourceTree = "<group>"; };
+		DCA64B7A1811BEC400292B86 /* Facade.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Facade.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +121,7 @@
 		A7698B5A18116F1200F701E2 /* LearningAutolayout */ = {
 			isa = PBXGroup;
 			children = (
+				DCA64B751811BE8C00292B86 /* Model */,
 				A7698B6318116F1200F701E2 /* LAAppDelegate.h */,
 				A7698B6418116F1200F701E2 /* LAAppDelegate.m */,
 				A7698B6618116F1200F701E2 /* Main.storyboard */,
@@ -155,6 +162,17 @@
 				A7698B7C18116F1200F701E2 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		DCA64B751811BE8C00292B86 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				DCA64B761811BEB200292B86 /* Hotel.h */,
+				DCA64B771811BEB200292B86 /* Hotel.m */,
+				DCA64B791811BEC400292B86 /* Facade.h */,
+				DCA64B7A1811BEC400292B86 /* Facade.m */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -256,8 +274,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				A7698B6118116F1200F701E2 /* main.m in Sources */,
+				DCA64B7B1811BEC400292B86 /* Facade.m in Sources */,
 				A7698B6518116F1200F701E2 /* LAAppDelegate.m in Sources */,
 				A7698B6B18116F1200F701E2 /* LAListViewController.m in Sources */,
+				DCA64B781811BEB200292B86 /* Hotel.m in Sources */,
 				A7698B8B1811748700F701E2 /* LAItemCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -469,6 +489,7 @@
 				A7698B8518116F1200F701E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A7698B8618116F1200F701E2 /* Build configuration list for PBXNativeTarget "LearningAutolayoutTests" */ = {
 			isa = XCConfigurationList;
@@ -477,6 +498,7 @@
 				A7698B8818116F1200F701E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
