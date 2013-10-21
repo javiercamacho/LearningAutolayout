@@ -13,8 +13,14 @@
 + (id)createFromDict:(NSDictionary *)dict
 {
     Hotel *hotelObject = [Hotel new];
+    hotelObject.key = [dict objectForKey:@"key"];
     hotelObject.name = [dict objectForKey:@"name"];
-    hotelObject.address = [dict objectForKey:@"address"];
+    hotelObject.address = [dict objectForKey:@"street_address"];
+    hotelObject.thumbnail = [dict objectForKey:@"thumbnail"];
+    
+    NSNumberFormatter *formatter = [NSNumberFormatter new];
+    formatter.numberStyle = NSNumberFormatterCurrencyStyle;
+    hotelObject.price = [formatter numberFromString:[dict objectForKey:@"total_rate"]];
     return hotelObject;
 }
 

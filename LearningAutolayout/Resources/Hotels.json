@@ -1,0 +1,1171 @@
+{
+    "type": "shop",
+    "total_available": 515,
+    "results_key": "b7a5f67b-2dfa-3a96-bad3-d6686d20d297",
+    "hotels": [
+               {
+               "key": "6103_null_null_null_A2:0",
+               "master_id": 6103,
+               "name": "Milenorth, A Chicago Hotel",
+               "latitude": 41.8962,
+               "longitude": -87.6233,
+               "street_address": "166 E Superior Street",
+               "star_rating": "4",
+               "review_score": 4.3,
+               "distance": "0.17",
+               "direction": "E",
+               "has_closed_loop_promo": true,
+               "promoted_total_rate": "204.04",
+               "total_rate": "223.57",
+               "promoted_nightly_rate": "175.78",
+               "nightly_rate": "195.31",
+               "total_stay_strike_rate": "195.31",
+               "total_promotion_amount": "19.53",
+               "hotel_deal_applied": true,
+               "thumbnail": "http://www.tnetnoc.com/hotelimages/103/6103/2631759-MileNorth-A-Chicago-Hotel-Hotel-Exterior-16_thumb.jpg"
+               },
+               {
+               "key": "20645_null_null_null_A2:0",
+               "master_id": 20645,
+               "name": "Congress Plaza Hotel At Grant Park",
+               "latitude": 41.8751,
+               "longitude": -87.6243,
+               "street_address": "520 South Michigan Ave",
+               "star_rating": "3",
+               "review_score": 3.3,
+               "distance": "2.31",
+               "direction": "S",
+               "promoted_total_rate": "179.22",
+               "total_rate": "217.71",
+               "promoted_nightly_rate": "153.97",
+               "nightly_rate": "192.46",
+               "total_stay_strike_rate": "192.46",
+               "total_promotion_amount": "38.49",
+               "hotel_deal_applied": true,
+               "thumbnail": "http://www.tnetnoc.com/hotelimages/645/20645/2241284-Congress-Plaza-Hotel-at-Grant-Park-Hotel-Exterior-33_thumb.jpg"
+               },
+               {
+               "key": "809121_null_null_null_A2:0",
+               "master_id": 809121,
+               "name": "Hotel Lincoln A Joie De Vivre Hotel",
+               "latitude": 41.9151,
+               "longitude": -87.6344,
+               "street_address": "1816 N Clark",
+               "star_rating": "4",
+               "review_score": 4.2,
+               "distance": "2.28",
+               "direction": "N",
+               "has_closed_loop_promo": true,
+               "promoted_total_rate": "159.14",
+               "total_rate": "217.73",
+               "promoted_nightly_rate": "136.72",
+               "nightly_rate": "195.31",
+               "total_stay_strike_rate": "195.31",
+               "total_promotion_amount": "58.59",
+               "hotel_deal_applied": true,
+               "thumbnail": "http://www.tnetnoc.com/hotelimages/121/809121/2631759-Hotel-Lincoln-a-Joie-de-Vivre-Hotel-Hotel-Exterior-15_thumb.jpg"
+               },
+               {
+               "key": "36892_null_null_null_A2:0",
+               "master_id": 36892,
+               "name": "The Talbott Hotel",
+               "latitude": 41.8994,
+               "longitude": -87.6275,
+               "street_address": "20 E. Delaware",
+               "star_rating": "4",
+               "review_score": 4.6,
+               "distance": "0.44",
+               "direction": "NW",
+               "has_closed_loop_promo": true,
+               "promoted_total_rate": "193.96",
+               "total_rate": "249.51",
+               "promoted_nightly_rate": "166.63",
+               "nightly_rate": "222.18",
+               "total_stay_strike_rate": "222.18",
+               "total_promotion_amount": "55.55",
+               "hotel_deal_applied": true,
+               "thumbnail": "http://www.tnetnoc.com/hotelimages/892/36892/2241284-The-Talbott-Hotel-Hotel-Exterior-31_thumb.jpg"
+               },
+               {
+               "key": "22898_null_null_null_A2:0",
+               "master_id": 22898,
+               "name": "City Suites Hotel Chicago",
+               "latitude": 41.9396,
+               "longitude": -87.6529,
+               "street_address": "933 W Belmont Ave.",
+               "star_rating": "3",
+               "review_score": 4.2,
+               "distance": "5.39",
+               "direction": "NW",
+               "promoted_total_rate": "128.77",
+               "total_rate": "128.77",
+               "promoted_nightly_rate": "111.25",
+               "nightly_rate": "111.25",
+               "total_stay_strike_rate": "111.25",
+               "thumbnail": "http://www.tnetnoc.com/hotelimages/898/22898/2631759-City-Suites-Hotel-Chicago-Hotel-Exterior-1_thumb.jpg"
+               },
+               {
+               "key": "63603_null_null_null_A2:0",
+               "master_id": 63603,
+               "name": "Amalfi Hotel Chicago",
+               "latitude": 41.8893,
+               "longitude": -87.6289,
+               "street_address": "20 West Kinzie Street",
+               "star_rating": "4",
+               "review_score": 4.4,
+               "distance": "0.78",
+               "direction": "SW",
+               "promoted_total_rate": "303.64",
+               "total_rate": "349.99",
+               "promoted_nightly_rate": "262.63",
+               "nightly_rate": "308.98",
+               "total_stay_strike_rate": "308.98",
+               "total_promotion_amount": "46.35",
+               "hotel_deal_applied": true,
+               "thumbnail": "http://www.tnetnoc.com/hotelimages/603/63603/2631759-Amalfi-Hotel-Chicago-Hotel-Exterior-1_thumb.jpg"
+               },
+               {
+               "key": "41215_null_null_null_A2:0",
+               "master_id": 41215,
+               "name": "Millennium Knickerbocker Hotel",
+               "latitude": 41.9,
+               "longitude": -87.6232,
+               "street_address": "163 Walton Place",
+               "star_rating": "4",
+               "review_score": 4,
+               "distance": "0.50",
+               "direction": "N",
+               "promoted_total_rate": "225.41",
+               "total_rate": "225.41",
+               "promoted_nightly_rate": "195.31",
+               "nightly_rate": "195.31",
+               "total_stay_strike_rate": "195.31",
+               "thumbnail": "http://www.tnetnoc.com/hotelimages/215/41215/2631759-Millennium-Knickerbocker-Hotel-Hotel-Exterior-1_thumb.jpg"
+               },
+               {
+               "key": "112374_null_null_null_A2:0",
+               "master_id": 112374,
+               "name": "Hard Rock Hotel Chicago",
+               "latitude": 41.8866,
+               "longitude": -87.6248,
+               "street_address": "230 North Michigan Avenue",
+               "star_rating": "4",
+               "review_score": 4,
+               "distance": "1.03",
+               "direction": "S",
+               "promoted_total_rate": "272.36",
+               "total_rate": "272.36",
+               "promoted_nightly_rate": "236.65",
+               "nightly_rate": "236.65",
+               "total_stay_strike_rate": "236.65",
+               "thumbnail": "http://www.tnetnoc.com/hotelimages/374/112374/2631759-Hard-Rock-Hotel-Chicago-Hotel-Exterior-9_thumb.jpg"
+               },
+               {
+               "key": "210529_null_null_null_A2:0",
+               "master_id": 210529,
+               "name": "The Allerton Hotel Chicago, Magnificent Mile",
+               "latitude": 41.8952,
+               "longitude": -87.6237,
+               "street_address": "701 North Michigan Avenue",
+               "star_rating": "4",
+               "review_score": 4,
+               "distance": "0.15",
+               "direction": "SE",
+               "promoted_total_rate": "238.80",
+               "total_rate": "275.10",
+               "promoted_nightly_rate": "205.73",
+               "nightly_rate": "242.03",
+               "total_stay_strike_rate": "242.03",
+               "total_promotion_amount": "36.30",
+               "hotel_deal_applied": true,
+               "thumbnail": "http://www.tnetnoc.com/hotelimages/529/210529/2631759-The-Allerton-Hotel-Chicago-Magnificent-Mile-Hotel-Exterior-1_thumb.jpg"
+               },
+               {
+               "key": "331219_null_null_null_A2:0",
+               "master_id": 331219,
+               "name": "Inn Of Chicago, An Ascend Collection Hotel",
+               "latitude": 41.8928,
+               "longitude": -87.6231,
+               "street_address": "162 East Ohio Street",
+               "star_rating": "3",
+               "review_score": 3.4,
+               "distance": "0.38",
+               "direction": "SE",
+               "promoted_total_rate": "196.80",
+               "total_rate": "196.80",
+               "promoted_nightly_rate": "170.51",
+               "nightly_rate": "170.51",
+               "total_stay_strike_rate": "170.51",
+               "thumbnail": "http://www.tnetnoc.com/hotelimages/219/331219/2241284-Inn-of-Chicago-an-Ascend-Collection-hotel-Hotel-Exterior-17_thumb.jpg"
+               },
+               {
+               "key": "1006241_null_null_null_A2:0",
+               "master_id": 1006241,
+               "name": "Hyatt Place Chicago River North",
+               "latitude": 41.8909,
+               "longitude": -87.6307,
+               "street_address": "66 West Illinois Street",
+               "star_rating": "4",
+               "review_score": 4.5,
+               "distance": "0.71",
+               "direction": "SW",
+               "promoted_total_rate": "226.05",
+               "total_rate": "226.05",
+               "promoted_nightly_rate": "195.31",
+               "nightly_rate": "195.31",
+               "total_stay_strike_rate": "195.31",
+               "thumbnail": "http://www.tnetnoc.com/hotelimages/241/1006241/2631759-Hyatt-Place-Chicago-River-North-Hotel-Exterior-1_thumb.jpg"
+               },
+               {
+               "key": "37071_null_null_null_A2:0",
+               "master_id": 37071,
+               "name": "Thompson Chicago",
+               "latitude": 41.9013,
+               "longitude": -87.6275,
+               "street_address": "21 East Bellevue Place",
+               "star_rating": "4",
+               "review_score": 5,
+               "distance": "0.64",
+               "direction": "N",
+               "promoted_total_rate": "359.68",
+               "total_rate": "359.68",
+               "promoted_nightly_rate": "308.98",
+               "nightly_rate": "308.98",
+               "total_stay_strike_rate": "308.98",
+               "thumbnail": "http://www.tnetnoc.com/hotelimages/071/37071/2631759-Thompson-Chicago-Suite-2_thumb.jpg"
+               },
+               {
+               "key": "31471_null_null_null_A2:0",
+               "master_id": 31471,
+               "name": "Hyatt Chicago Magnificent Mile",
+               "latitude": 41.8938,
+               "longitude": -87.6224,
+               "street_address": "633 North Saint Clair Street",
+               "star_rating": "4",
+               "review_score": 3.9,
+               "distance": "0.33",
+               "direction": "SE",
+               "promoted_total_rate": "227.08",
+               "total_rate": "227.08",
+               "promoted_nightly_rate": "195.31",
+               "nightly_rate": "195.31",
+               "total_stay_strike_rate": "195.31",
+               "thumbnail": "http://www.tnetnoc.com/hotelimages/471/31471/2631759-Hyatt-Chicago-Magnificent-Mile-Hotel-Exterior-1_thumb.jpg"
+               },
+               {
+               "key": "5847_null_null_null_A2:0",
+               "master_id": 5847,
+               "name": "Red Roof Inn Chi Downtown Magnificent Mile",
+               "latitude": 41.8936,
+               "longitude": -87.6229,
+               "street_address": "162 East Ontario St",
+               "star_rating": "2",
+               "review_score": 2.9,
+               "distance": "0.32",
+               "direction": "SE",
+               "promoted_total_rate": "155.03",
+               "total_rate": "155.03",
+               "promoted_nightly_rate": "134.33",
+               "nightly_rate": "134.33",
+               "total_stay_strike_rate": "134.33",
+               "thumbnail": "http://www.tnetnoc.com/hotelimages/847/5847/2631759-Red-Roof-Inn-Chi-Downtown-Magnificent-Mile-Hotel-Exterior-1_thumb.jpg"
+               },
+               {
+               "key": "246948_null_null_null_A2:0",
+               "master_id": 246948,
+               "name": "The Drake Hotel",
+               "latitude": 41.9004,
+               "longitude": -87.6232,
+               "street_address": "140 East Walton Place",
+               "star_rating": "3",
+               "review_score": 4.4,
+               "distance": "0.54",
+               "direction": "N",
+               "promoted_total_rate": "211.07",
+               "total_rate": "211.07",
+               "promoted_nightly_rate": "184.98",
+               "nightly_rate": "184.98",
+               "total_stay_strike_rate": "184.98",
+               "thumbnail": "http://www.tnetnoc.com/hotelimages/948/246948/2241284-The-Drake-Hotel-Hotel-Exterior-98_thumb.jpg"
+               },
+               {
+               "key": "22990_null_null_null_A2:0",
+               "master_id": 22990,
+               "name": "Hampton Inn & Suites Chicago Downtown",
+               "latitude": 41.8908,
+               "longitude": -87.6294,
+               "street_address": "33 West Illinois",
+               "star_rating": "3",
+               "review_score": 4,
+               "distance": "0.65",
+               "direction": "SW",
+               "promoted_total_rate": "191.25",
+               "total_rate": "191.25",
+               "promoted_nightly_rate": "164.30",
+               "nightly_rate": "164.30",
+               "total_stay_strike_rate": "164.30",
+               "thumbnail": "http://www.tnetnoc.com/hotelimages/990/22990/2631759-Hampton-Inn-Suites-Chicago-Downtown-Hotel-Exterior-14_thumb.jpg"
+               },
+               {
+               "key": "47379_null_null_null_A2:0",
+               "master_id": 47379,
+               "name": "Embassy Suites Chicago Downtown",
+               "latitude": 41.8925,
+               "longitude": -87.6281,
+               "street_address": "600 North State Street",
+               "star_rating": "3",
+               "review_score": 4.1,
+               "distance": "0.43",
+               "direction": "SW",
+               "promoted_total_rate": "215.33",
+               "total_rate": "215.33",
+               "promoted_nightly_rate": "184.98",
+               "nightly_rate": "184.98",
+               "total_stay_strike_rate": "184.98",
+               "thumbnail": "http://www.tnetnoc.com/hotelimages/379/47379/2631759-Embassy-Suites-Chicago-Downtown-Hotel-Exterior-1_thumb.jpg"
+               },
+               {
+               "key": "225651_null_null_null_A2:0",
+               "master_id": 225651,
+               "name": "The Silversmith Hotel Chicago",
+               "latitude": 41.8814,
+               "longitude": -87.6269,
+               "street_address": "10 South Wabash Avenue,",
+               "star_rating": "3",
+               "review_score": 4.2,
+               "distance": "1.61",
+               "direction": "S",
+               "promoted_total_rate": "285.45",
+               "total_rate": "285.45",
+               "promoted_nightly_rate": "246.97",
+               "nightly_rate": "246.97",
+               "total_stay_strike_rate": "246.97",
+               "thumbnail": "http://www.tnetnoc.com/hotelimages/651/225651/2631759-The-Silversmith-Hotel-Chicago-Hotel-Exterior-1_thumb.jpg"
+               },
+               {
+               "key": "33548_null_null_null_A2:0",
+               "master_id": 33548,
+               "name": "Hotel Allegro A Kimpton Hotel",
+               "latitude": 41.8845,
+               "longitude": -87.6332,
+               "street_address": "171 W. Randolph St.",
+               "star_rating": "4",
+               "review_score": 4.1,
+               "distance": "1.42",
+               "direction": "SW",
+               "promoted_total_rate": "288.75",
+               "total_rate": "316.55",
+               "promoted_nightly_rate": "250.18",
+               "nightly_rate": "277.98",
+               "total_stay_strike_rate": "277.98",
+               "total_promotion_amount": "27.80",
+               "hotel_deal_applied": true,
+               "thumbnail": "http://www.tnetnoc.com/hotelimages/548/33548/2241284-Allegro-Chicago-a-Kimpton-Hotel-Hotel-Exterior-45_thumb.jpg"
+               },
+               {
+               "key": "249014_null_null_null_A2:0",
+               "master_id": 249014,
+               "name": "Trump International Hotel And Tower Chicago",
+               "latitude": 41.8895,
+               "longitude": -87.6267,
+               "street_address": "401 North Wabash Avenue",
+               "star_rating": "5",
+               "review_score": 4.6,
+               "distance": "0.71",
+               "direction": "S",
+               "promoted_total_rate": "567.33",
+               "total_rate": "567.33",
+               "promoted_nightly_rate": "490.85",
+               "nightly_rate": "490.85",
+               "total_stay_strike_rate": "490.85",
+               "thumbnail": "http://www.tnetnoc.com/hotelimages/014/249014/2241284-Trump-International-Hotel-and-Tower-Chicago-Hotel-Exterior-58_thumb.jpg"
+               },
+               {
+               "key": "318383_null_null_null_A2:0",
+               "master_id": 318383,
+               "name": "Ohio House Motel",
+               "latitude": 41.8924,
+               "longitude": -87.6327,
+               "street_address": "600 North La Salle Street",
+               "star_rating": "1",
+               "review_score": 3.2,
+               "distance": "0.72",
+               "direction": "SW",
+               "promoted_total_rate": "153.08",
+               "total_rate": "153.08",
+               "promoted_nightly_rate": "133.31",
+               "nightly_rate": "133.31",
+               "total_stay_strike_rate": "133.31",
+               "thumbnail": "http://www.tnetnoc.com/hotelimages/383/318383/2631759-Ohio-House-Motel-Hotel-Exterior-1_thumb.jpg"
+               },
+               {
+               "key": "6864_null_null_null_A2:0",
+               "master_id": 6864,
+               "name": "Homewood Suites By Hilton Chicago Downtown",
+               "latitude": 41.8921,
+               "longitude": -87.626,
+               "street_address": "40 East Grand Avenue",
+               "star_rating": "3",
+               "review_score": 4.4,
+               "distance": "0.42",
+               "direction": "S",
+               "promoted_total_rate": "203.29",
+               "total_rate": "203.29",
+               "promoted_nightly_rate": "174.64",
+               "nightly_rate": "174.64",
+               "total_stay_strike_rate": "174.64",
+               "thumbnail": "http://www.tnetnoc.com/hotelimages/864/6864/2631759-Homewood-Suites-Chicago-Downtown-Hotel-Exterior-2_thumb.jpg"
+               },
+               {
+               "key": "1068521_null_null_null_A2:0",
+               "master_id": 1068521,
+               "name": "Ivy Hotel",
+               "latitude": 41.8932,
+               "longitude": -87.6214,
+               "street_address": "233 E. Ontario Street",
+               "star_rating": "4",
+               "review_score": 4.5,
+               "distance": "0.43",
+               "direction": "SE",
+               "promoted_total_rate": "263.42",
+               "total_rate": "263.42",
+               "promoted_nightly_rate": "226.31",
+               "nightly_rate": "226.31",
+               "total_stay_strike_rate": "226.31",
+               "thumbnail": "http://www.tnetnoc.com/hotelimages/521/1068521/2631759-Ivy-Hotel-Hotel-Exterior-1_thumb.jpg"
+               },
+               {
+               "key": "62427_null_null_null_A2:0",
+               "master_id": 62427,
+               "name": "Courtyard Chicago Downtown/Magnificent Mile",
+               "latitude": 41.8933,
+               "longitude": -87.6235,
+               "street_address": "165 East Ontario Street",
+               "star_rating": "3",
+               "review_score": 4,
+               "distance": "0.32",
+               "direction": "SE",
+               "promoted_total_rate": "245.30",
+               "total_rate": "245.30",
+               "promoted_nightly_rate": "206.67",
+               "nightly_rate": "206.67",
+               "total_stay_strike_rate": "206.67",
+               "thumbnail": "http://www.tnetnoc.com/hotelimages/427/62427/2631759-Courtyard-Chicago-DowntownMagnificent-Mile-Hotel-Exterior-1_thumb.jpg"
+               }
+               ],
+    "amenities": {
+        "ORBSHT": {
+            "name": "Autobús al aeropuerto",
+            "count": 6
+        },
+        "BABY": {
+            "name": "Servicio de niñera",
+            "count": 21
+        },
+        "BUSCTR": {
+            "name": "Centro de negocios",
+            "count": 381
+        },
+        "FPRKNG": {
+            "name": "Aparcamiento gratuito",
+            "count": 236
+        },
+        "GOLF": {
+            "name": "Golf",
+            "count": 131
+        },
+        "INTHS": {
+            "name": "Internet de alta velocidad",
+            "count": 439
+        },
+        "OTA_P_903": {
+            "name": "No se permite fumar",
+            "count": 52
+        },
+        "PETS": {
+            "name": "Animales permitidos",
+            "count": 249
+        },
+        "REST": {
+            "name": "Restaurante",
+            "count": 239
+        },
+        "ORBSPA": {
+            "name": "Servicios de spa",
+            "count": 17
+        },
+        "TENNIS": {
+            "name": "Tenis",
+            "count": 128
+        },
+        "ORBWLS": {
+            "name": "Internet inalámbrico",
+            "count": 135
+        },
+        "BAR": {
+            "name": "Bar/sala de estar",
+            "count": 134
+        },
+        "ORBGYM": {
+            "name": "Gimnasio",
+            "count": 359
+        },
+        "POOL": {
+            "name": "Piscina",
+            "count": 329
+        }
+    },
+    "star_ratings": {
+        "1": {
+            "count": 7
+        },
+        "2": {
+            "count": 169
+        },
+        "3": {
+            "count": 261
+        },
+        "4": {
+            "count": 70
+        },
+        "5": {
+            "count": 8
+        }
+    },
+    "user_ratings": {
+        "1.0": {},
+        "5.0": {}
+    },
+    "chains": {
+        "AS": {
+            "name": "All Seasons Europe",
+            "count": 0
+        },
+        "AL": {
+            "name": "Aloft Hotels",
+            "count": 3
+        },
+        "AN": {
+            "name": "ANA Hotels International",
+            "count": 0
+        },
+        "NZ": {
+            "name": "Colección Ascend",
+            "count": 1
+        },
+        "ASC": {
+            "name": "Ascott Hotels",
+            "count": 0
+        },
+        "BN": {
+            "name": "Barcelo Hotels",
+            "count": 0
+        },
+        "BU": {
+            "name": "Baymont Inn and Suites",
+            "count": 5
+        },
+        "JB": {
+            "name": "Beaches Resorts",
+            "count": 0
+        },
+        "BV": {
+            "name": "Americas Best Value Inns",
+            "count": 2
+        },
+        "BW": {
+            "name": "Best Western International",
+            "count": 18
+        },
+        "CJ": {
+            "name": "Caesar Park and Business Hotels",
+            "count": 0
+        },
+        "EZ": {
+            "name": "Cambria Suites",
+            "count": 0
+        },
+        "YO": {
+            "name": "Candlewood Suites",
+            "count": 6
+        },
+        "CAT": {
+            "name": "Catalonia Hotels",
+            "count": 0
+        },
+        "CTD": {
+            "name": "Apartahoteles Citadines",
+            "count": 0
+        },
+        "CC": {
+            "name": "Clarion Hotels",
+            "count": 3
+        },
+        "CQ": {
+            "name": "Club Quarters",
+            "count": 2
+        },
+        "CI": {
+            "name": "Comfort Inns",
+            "count": 13
+        },
+        "CZ": {
+            "name": "Comfort Suites",
+            "count": 9
+        },
+        "CN": {
+            "name": "Conrad Hotels and Resorts",
+            "count": 1
+        },
+        "CHI": {
+            "name": "Country Inns and Suites by Carlson",
+            "count": 13
+        },
+        "CY": {
+            "name": "Courtyard by Marriott",
+            "count": 19
+        },
+        "CP": {
+            "name": "Crowne Plaza Hotels and Resorts",
+            "count": 5
+        },
+        "DI": {
+            "name": "Days Inn",
+            "count": 12
+        },
+        "DE": {
+            "name": "Delta Hotels",
+            "count": 0
+        },
+        "DN": {
+            "name": "Destination Hotels and Resorts",
+            "count": 1
+        },
+        "DO": {
+            "name": "Dorint Hotels and Resorts",
+            "count": 0
+        },
+        "DT": {
+            "name": "Doubletree Hotels",
+            "count": 11
+        },
+        "DRE": {
+            "name": "Resorts Dreams y Spas",
+            "count": 0
+        },
+        "DR": {
+            "name": "Drury Hotels",
+            "count": 0
+        },
+        "EO": {
+            "name": "Econo Lodge",
+            "count": 2
+        },
+        "EL": {
+            "name": "Element Hotels",
+            "count": 0
+        },
+        "ES": {
+            "name": "Embassy Suites",
+            "count": 6
+        },
+        "EURSTR": {
+            "name": "Eurostars Hotels",
+            "count": 0
+        },
+        "FN": {
+            "name": "Fairfield Inn by Marriott",
+            "count": 11
+        },
+        "FA": {
+            "name": "Fairmont Hotels and Resorts",
+            "count": 1
+        },
+        "FH": {
+            "name": "Fiesta Americana Hotels and Resorts",
+            "count": 0
+        },
+        "FP": {
+            "name": "Four Points by Sheraton",
+            "count": 2
+        },
+        "FS": {
+            "name": "Four Seasons Hotels",
+            "count": 2
+        },
+        "GX": {
+            "name": "Global Connextions",
+            "count": 1
+        },
+        "GT": {
+            "name": "Golden Tulip",
+            "count": 0
+        },
+        "HX": {
+            "name": "Hampton Inns",
+            "count": 23
+        },
+        "HR": {
+            "name": "Caesars Hotels and Casinos",
+            "count": 1
+        },
+        "BH": {
+            "name": "Hawthorn Suites by Wyndham",
+            "count": 3
+        },
+        "GI": {
+            "name": "Hilton Garden Inns",
+            "count": 12
+        },
+        "HH": {
+            "name": "Hilton Hotels and Resorts",
+            "count": 12
+        },
+        "HL": {
+            "name": "Hilton International",
+            "count": 0
+        },
+        "EX": {
+            "name": "Holiday Inn Express",
+            "count": 20
+        },
+        "HI": {
+            "name": "Holiday Inn Hotels and Resorts",
+            "count": 21
+        },
+        "EA": {
+            "name": "Extended Stay America",
+            "count": 28
+        },
+        "HG": {
+            "name": "Homewood Suites by Hilton",
+            "count": 4
+        },
+        "IN": {
+            "name": "Hotel Indigo",
+            "count": 2
+        },
+        "HJ": {
+            "name": "Howard Johnson Hotels",
+            "count": 4
+        },
+        "GP": {
+            "name": "HUSA Hotels",
+            "count": 0
+        },
+        "HY": {
+            "name": "Hyatt Hotels and Resorts",
+            "count": 19
+        },
+        "IBE": {
+            "name": "Iberostar Hotels",
+            "count": 0
+        },
+        "XI": {
+            "name": "Ibis Hotels - Accor Hotels",
+            "count": 0
+        },
+        "IT": {
+            "name": "InterCity Hotels",
+            "count": 0
+        },
+        "IC": {
+            "name": "Inter-Continental Hotels and Resorts",
+            "count": 2
+        },
+        "SJ": {
+            "name": "Jameson Inns",
+            "count": 0
+        },
+        "JO": {
+            "name": "Jolly Hotels",
+            "count": 0
+        },
+        "JT": {
+            "name": "Jumeirah Hotels and Resorts",
+            "count": 0
+        },
+        "KI": {
+            "name": "Kempinski Hotels and Resorts",
+            "count": 0
+        },
+        "KC": {
+            "name": "Kimpton Hotels",
+            "count": 4
+        },
+        "KG": {
+            "name": "Knights Inn",
+            "count": 0
+        },
+        "LQ": {
+            "name": "La Quinta Inns and Suites",
+            "count": 12
+        },
+        "LO": {
+            "name": "Langham Hotels",
+            "count": 1
+        },
+        "MD": {
+            "name": "Le Meridien",
+            "count": 0
+        },
+        "LZ": {
+            "name": "Loews Hotels",
+            "count": 0
+        },
+        "LB": {
+            "name": "Lucien Barriere Hotels",
+            "count": 0
+        },
+        "MS": {
+            "name": "Magnuson Hotels",
+            "count": 3
+        },
+        "MZ": {
+            "name": "Mainstay Suites",
+            "count": 0
+        },
+        "MP": {
+            "name": "Mantra Hotel Group",
+            "count": 0
+        },
+        "MM": {
+            "name": "Maritim Hotels",
+            "count": 0
+        },
+        "MC": {
+            "name": "Marriott Hotels, Resorts and Suites",
+            "count": 15
+        },
+        "VC": {
+            "name": "Marriott Vacation Club",
+            "count": 0
+        },
+        "ME": {
+            "name": "MGallery - Accor Hotels",
+            "count": 0
+        },
+        "XM": {
+            "name": "Mercure Hotels - Accor Hotels",
+            "count": 0
+        },
+        "MV": {
+            "name": "MGM Resorts Hotels",
+            "count": 0
+        },
+        "MI": {
+            "name": "Microtel Inn and Suites by Wyndham",
+            "count": 0
+        },
+        "MU": {
+            "name": "Millennium and Copthorne Hotels",
+            "count": 1
+        },
+        "MIR": {
+            "name": "Mirvac Hotels and Resorts",
+            "count": 0
+        },
+        "MR": {
+            "name": "Morgan's Hotels",
+            "count": 0
+        },
+        "MX": {
+            "name": "Motel 6",
+            "count": 0
+        },
+        "MK": {
+            "name": "Moevenpick Hotels",
+            "count": 0
+        },
+        "AP": {
+            "name": "NH Hotels",
+            "count": 0
+        },
+        "XN": {
+            "name": "Novotel Hotels - Accor Hotels",
+            "count": 0
+        },
+        "NOW": {
+            "name": "Now Resorts and Spas",
+            "count": 0
+        },
+        "OAK": {
+            "name": "Oaks Hotels",
+            "count": 0
+        },
+        "000055": {
+            "name": "Oberoi Hotels and Resorts",
+            "count": 0
+        },
+        "OM": {
+            "name": "Omni Hotels and Resorts",
+            "count": 1
+        },
+        "OR": {
+            "name": "Outrigger Hotels and Resorts",
+            "count": 0
+        },
+        "PAR": {
+            "name": "Park Hotels",
+            "count": 0
+        },
+        "PII": {
+            "name": "Park Inn",
+            "count": 0
+        },
+        "PKP": {
+            "name": "Park Plaza Hotels and Resorts",
+            "count": 0
+        },
+        "PU": {
+            "name": "Pullman Hotels",
+            "count": 0
+        },
+        "QI": {
+            "name": "Quality Inns",
+            "count": 10
+        },
+        "RAD": {
+            "name": "Radisson Hotels and Resorts",
+            "count": 2
+        },
+        "YR": {
+            "name": "Raffles International Hotels and Resorts",
+            "count": 0
+        },
+        "RA": {
+            "name": "Ramada Worldwide",
+            "count": 4
+        },
+        "RL": {
+            "name": "Red Lion Hotels and Inns",
+            "count": 0
+        },
+        "RF": {
+            "name": "Red Roof Inns",
+            "count": 10
+        },
+        "REG": {
+            "name": "Regent Hotels and Resorts",
+            "count": 0
+        },
+        "BR": {
+            "name": "Renaissance Hotels and Resorts",
+            "count": 5
+        },
+        "RC": {
+            "name": "Residence Inn by Marriott",
+            "count": 12
+        },
+        "RZ": {
+            "name": "Ritz Carlton Hotels",
+            "count": 0
+        },
+        "RI": {
+            "name": "Rodeway Inns",
+            "count": 4
+        },
+        "ROT": {
+            "name": "Rotana Hotels",
+            "count": 0
+        },
+        "RG": {
+            "name": "Rydges Hotels",
+            "count": 0
+        },
+        "JS": {
+            "name": "Sandals Resorts",
+            "count": 0
+        },
+        "PS": {
+            "name": "Sandman Hotels",
+            "count": 0
+        },
+        "SH": {
+            "name": "Scandic Hotels",
+            "count": 0
+        },
+        "SEC": {
+            "name": "Resorts y Spas Secrets",
+            "count": 0
+        },
+        "SG": {
+            "name": "Shangri-La Hotels and Resorts",
+            "count": 0
+        },
+        "SI": {
+            "name": "Sheraton Hotels and Resorts",
+            "count": 4
+        },
+        "BP": {
+            "name": "Shilo Inns",
+            "count": 0
+        },
+        "SZ": {
+            "name": "Sleep Inns",
+            "count": 5
+        },
+        "000194": {
+            "name": "Small Luxury Hotels of the World",
+            "count": 1
+        },
+        "VS": {
+            "name": "Sofitel Hotels",
+            "count": 1
+        },
+        "SM": {
+            "name": "Melia Hotels International",
+            "count": 0
+        },
+        "SN": {
+            "name": "Sonesta Hotels and Resorts",
+            "count": 1
+        },
+        "XV": {
+            "name": "SpringHill Suites by Marriott",
+            "count": 9
+        },
+        "XR": {
+            "name": "St. Regis Hotels",
+            "count": 0
+        },
+        "SB": {
+            "name": "Staybridge Suites by Holiday Inn",
+            "count": 4
+        },
+        "S1": {
+            "name": "Steigenberger Hotel Group",
+            "count": 0
+        },
+        "UB": {
+            "name": "Suburban Extended Stay",
+            "count": 0
+        },
+        "XA": {
+            "name": "Suite Hotels",
+            "count": 0
+        },
+        "SE": {
+            "name": "Super 8 Worldwide",
+            "count": 19
+        },
+        "SL": {
+            "name": "Swissotel",
+            "count": 1
+        },
+        "TJ": {
+            "name": "Taj Hotels, Resorts and Palaces",
+            "count": 0
+        },
+        "LC": {
+            "name": "The Luxury Collection",
+            "count": 0
+        },
+        "TI": {
+            "name": "Thistle Hotels",
+            "count": 0
+        },
+        "OTG": {
+            "name": "TOGA Hospitality",
+            "count": 0
+        },
+        "TP": {
+            "name": "TOP International Hotels",
+            "count": 0
+        },
+        "TO": {
+            "name": "TownePlace Suites by Marriott",
+            "count": 4
+        },
+        "TL": {
+            "name": "Travelodge",
+            "count": 4
+        },
+        "VIN": {
+            "name": "Hoteles Vincci",
+            "count": 0
+        },
+        "WH": {
+            "name": "W Hotels",
+            "count": 2
+        },
+        "WA": {
+            "name": "Waldorf Astoria",
+            "count": 1
+        },
+        "WDW": {
+            "name": "Walt Disney World",
+            "count": 0
+        },
+        "WI": {
+            "name": "Westin Hotels and Resorts",
+            "count": 6
+        },
+        "WG": {
+            "name": "Wingate by Wyndham",
+            "count": 4
+        },
+        "WY": {
+            "name": "Wyndham Hotels and Resorts",
+            "count": 6
+        },
+        "ZOE": {
+            "name": "Zoetry Hotels and Resorts",
+            "count": 0
+        }
+    },
+    "neighborhood": {
+        "35416": {
+            "name": "The Loop"
+        },
+        "37725": {
+            "name": "River North"
+        },
+        "37728": {
+            "name": "Gold Coast"
+        },
+        "37729": {
+            "name": "Museum Campus"
+        },
+        "37761": {
+            "name": "Magnificent Mile"
+        },
+        "13834451": {
+            "name": "Millennium Park"
+        },
+        "18194371": {
+            "name": "Boystown"
+        },
+        "19914311": {
+            "name": "O’Hare Park & Fly"
+        },
+        "19914321": {
+            "name": "Midway Park & Fly"
+        }
+    },
+    "closed_loop_promo": {
+        "banner_img_path": "/images/promos/clp/hcl/promo_global.png",
+        "hotel_img_path": "/images/promos/clp/eball/card_promo.png",
+        "hotel_selected_img_path": "/images/promos/clp/eball/card_selected.png"
+    },
+    "sort": "HOTEL_BEST_VALUE",
+    "page": 1,
+    "location": {
+        "location_id": 7840,
+        "types": [
+                  "CITY"
+                  ],
+        "code": "CHI",
+        "date_time_zone": {
+            "id": "America/Chicago"
+        },
+        "latitude": 41.895802,
+        "longitude": -87.625298,
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US",
+        "country_code": "US",
+        "address": "Chicago, IL, US",
+        "name": "Chicago"
+    }
+}
